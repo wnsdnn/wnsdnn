@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsdnn&count_private=true&show_icons=true&theme=synthwave)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wnsdnn})](https://solved.ac/{wnsdnn})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsdnn)](https://solved.ac/wnsdnn/)
