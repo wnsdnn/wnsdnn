@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)      
    
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ![wnsdnn's github stats](https://github-readme-stats.vercel.app/api?username=wnsdnn&show_icons=true)
 [![wnsdnn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdnn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wnsdnn)
+   
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
