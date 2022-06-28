@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)       
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)      
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsdnn&count_private=true&show_icons=true&theme=synthwave)
              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdnn&layout=compact)](https://github.com/wnsdnn/github-readme-stats)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
