@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsdnn&count_private=true&show_icons=true&theme=synthwave)
              
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdnn&layout=compact)](https://github.com/wnsdnn/github-readme-stats)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
