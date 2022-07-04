@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
    
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/#F7DF1E?style=flat-square&logo=https://user-images.githubusercontent.com/71883310/177174021-3c156377-6b33-480a-9709-4b83bfdfffde.svg&logoColor=white"/></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
  
 ![wnsdnn's github stats](https://github-readme-stats.vercel.app/api?username=wnsdnn&show_icons=true)
 [![wnsdnn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdnn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wnsdnn)
