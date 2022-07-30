@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/wnsdnn/wnsdnn/blob/output/github-contribution-grid-snake.svg)
 
-[![wnsdnn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wnsdnn)]
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
