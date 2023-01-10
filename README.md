@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### 04년생 개발자 여준우입니다.
 
 ## 🖥 Introduce
- - Seoul Digitech High School (2020.03 ~ 현재)
+ - Seoul Digitech High School 졸업 (2020.03 ~ 2020.01)
  - eGemco (2022.09 ~ 현재)
 
 
