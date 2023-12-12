@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 
 <br>
 
-![img](https://github.com/wnsdnn/wnsdnn/assets/71883310/fd8cd778-7d81-4721-8660-eb495d97b9c2)
+<!-- ![img](https://github.com/wnsdnn/wnsdnn/assets/71883310/fd8cd778-7d81-4721-8660-eb495d97b9c2) -->
+
+<div style="display: flex; justify-content: center; height: 400px; padding: 60px 0;">
+    <img src="https://github.com/wnsdnn/wnsdnn/assets/71883310/fd8cd778-7d81-4721-8660-eb495d97b9c2" />
+</div>
+
 
 <br>
 <hr>
