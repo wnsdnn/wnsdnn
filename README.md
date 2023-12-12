@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  - Seoul Digitech High School (2020.03 ~ 2023.01)
  - eGemco (2022.09 ~ 현재)
 
-![flutter](https://github.com/wnsdnn/wnsdnn/assets/71883310/fd8cd778-7d81-4721-8660-eb495d97b9c2)
+<img src="https://github.com/wnsdnn/wnsdnn/assets/71883310/fd8cd778-7d81-4721-8660-eb495d97b9c2" style="width: 400px" />
 
 <br>
 
