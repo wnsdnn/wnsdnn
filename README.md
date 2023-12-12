@@ -19,12 +19,12 @@ Here are some ideas to get you started:
  - Seoul Digitech High School (2020.03 ~ 2023.01)
  - eGemco (2022.09 ~ 현재)
 
-<img src="https://github.com/wnsdnn/wnsdnn/assets/71883310/fd8cd778-7d81-4721-8660-eb495d97b9c2" style="width: 400px" />
+![img](https://github.com/wnsdnn/wnsdnn/assets/71883310/fd8cd778-7d81-4721-8660-eb495d97b9c2)
 
 <br>
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwnsdnn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-![wnsdnn's github stats](https://github-readme-stats.vercel.app/api?username=wnsdnn&show_icons=true)
+<!-- ![wnsdnn's github stats](https://github-readme-stats.vercel.app/api?username=wnsdnn&show_icons=true) -->
 <!-- [![wnsdnn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdnn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wnsdnn) -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
