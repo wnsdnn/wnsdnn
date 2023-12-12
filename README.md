@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 <!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
 
-![snake gif](https://github.com/wnsdnn/wnsdnn/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/wnsdnn/wnsdnn/blob/output/github-contribution-grid-snake.svg) -->
 
 
 
