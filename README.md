@@ -37,9 +37,10 @@ Here are some ideas to get you started:
 <!-- ![wnsdnn's github stats](https://github-readme-stats.vercel.app/api?username=wnsdnn&show_icons=true) -->
 <!-- [![wnsdnn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wnsdnn&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wnsdnn) -->
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 <!-- ![](./profile-3d-contrib/profile-rainbow.svg) -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
 <!-- ![](./profile-3d-contrib/profile-green.svg) -->
 <!-- ![](./profile-3d-contrib/profile-season-animate.svg) -->
 <!-- ![](./profile-3d-contrib/profile-season.svg) -->
