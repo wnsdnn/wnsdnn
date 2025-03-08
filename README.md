@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ## 🖥 Introduce
  - Seoul Digitech High School (2020.03 ~ 2023.01)
- - Baewha Women's University [P-TECH] (2023.03 ~ 현재)
+ - Baewha Women's University [P-TECH] (2023.03 ~ 2025.02)
+ - Tech University of Korea [P-TECH] (2025.03 ~ 현재)
  - eGemco (2022.09 ~ 현재)
 
 <br>
